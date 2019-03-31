@@ -7,4 +7,5 @@ accuracy result:
 number of hidden units = 4
 
 accuracy using tanh(z) as the activation function of hidden layer = 90%
+
 accuracy using ReLu(z) as the activation function of hidden layer = 70.75%
